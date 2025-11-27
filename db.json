@@ -106,27 +106,27 @@
   "secoes": [
     {
       "id": 1,
-      "nome": "Fantasia"
+      "secao": "Estante D1 - Prat. 1"
     },
     {
       "id": 2,
-      "nome": "Clássicos Brasileiros"
+      "secao": "Estante N3 - Prat. 1"
     },
     {
       "id": 3,
-      "nome": "Literatura Estrangeira"
+      "secao": "Estante U7 - Prat. 5"
     },
     {
       "id": 4,
-      "nome": "Infantojuvenil"
+      "secao": "Estante A2 - Prat. 3"
     },
     {
       "id": 5,
-      "nome": "Suspense e Terror"
+      "secao": "Estante T6 - Prat. 9"
     },
     {
       "id": 6,
-      "nome": "Ficção Geral"
+      "secao": "Estante D4 - Prat. 2"
     }
   ]
 }
