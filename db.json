@@ -2,43 +2,131 @@
   "autores": [
     {
       "id": 1,
-      "nome": "Autor 1"
+      "nome": "J. R. R. Tolkien"
     },
     {
       "id": 2,
-      "nome": "Autor 2"
+      "nome": "Machado de Assis"
     },
     {
       "id": 3,
-      "nome": "Autor 3"
+      "nome": "Jane Austen"
+    },
+    {
+      "id": 4,
+      "nome": "George Orwell"
+    },
+    {
+      "id": 5,
+      "nome": "John Green"
+    },
+    {
+      "id": 6,
+      "nome": "J. K. Rowling"
+    },
+    {
+      "id": 7,
+      "nome": "Antoine de Saint-Exupéry"
+    },
+    {
+      "id": 8,
+      "nome": "Stephen King"
+    },
+    {
+      "id": 9,
+      "nome": "Dan Brown"
+    },
+    {
+      "id": 10,
+      "nome": "Rick Riordan"
+    },
+    {
+      "id": 11,
+      "nome": "Patrick Rothfuss"
+    },
+    {
+      "id": 12,
+      "nome": "Neil Gaiman"
+    },
+    {
+      "id": 13,
+      "nome": "Harper Lee"
+    },
+    {
+      "id": 14,
+      "nome": "Aldous Huxley"
+    },
+    {
+      "id": 15,
+      "nome": "J. D. Salinger"
+    },
+    {
+      "id": 16,
+      "nome": "Gabriel García Márquez"
+    },
+    {
+      "id": 17,
+      "nome": "Emily Brontë"
+    },
+    {
+      "id": 18,
+      "nome": "Victor Hugo"
+    },
+    {
+      "id": 19,
+      "nome": "José Saramago"
+    },
+    {
+      "id": 20,
+      "nome": "Clarice Lispector"
     }
   ],
   "idiomas": [
     {
       "id": 1,
-      "nome": "Idioma 01"
+      "nome": "Português"
     },
     {
       "id": 2,
-      "nome": "Idioma 2"
+      "nome": "Inglês"
     },
     {
       "id": 3,
-      "nome": "Idioma 3"
+      "nome": "Espanhol"
+    },
+    {
+      "id": 4,
+      "nome": "Francês"
+    },
+    {
+      "id": 5,
+      "nome": "Alemão"
     }
   ],
   "secoes": [
     {
       "id": 1,
-      "nome": "Seção 1"
+      "nome": "Fantasia"
     },
     {
       "id": 2,
-      "nome": "Seção 2"
+      "nome": "Clássicos Brasileiros"
     },
     {
       "id": 3,
-      "nome": "Seção 3"
+      "nome": "Literatura Estrangeira"
+    },
+    {
+      "id": 4,
+      "nome": "Infantojuvenil"
+    },
+    {
+      "id": 5,
+      "nome": "Suspense e Terror"
+    },
+    {
+      "id": 6,
+      "nome": "Ficção Geral"
     }
   ]
 }
