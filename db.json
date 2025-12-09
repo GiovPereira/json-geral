@@ -106,27 +106,27 @@
   "secoes": [
     {
       "id": 1,
-      "secao": "Estante D1 - Prat. 1"
+      "nome": "Estante D1 - Prat. 1"
     },
     {
       "id": 2,
-      "secao": "Estante N3 - Prat. 1"
+      "nome": "Estante N3 - Prat. 1"
     },
     {
       "id": 3,
-      "secao": "Estante U7 - Prat. 5"
+      "nome": "Estante U7 - Prat. 5"
     },
     {
       "id": 4,
-      "secao": "Estante A2 - Prat. 3"
+      "nome": "Estante A2 - Prat. 3"
     },
     {
       "id": 5,
-      "secao": "Estante T6 - Prat. 9"
+      "nome": "Estante T6 - Prat. 9"
     },
     {
       "id": 6,
-      "secao": "Estante D4 - Prat. 2"
+      "nome": "Estante D4 - Prat. 2"
     }
   ]
 }
